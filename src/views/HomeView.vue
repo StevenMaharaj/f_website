@@ -3,6 +3,6 @@
 
 <template>
   <main>
-  Hi Welcome to Federing
+  Hi Welcome to Federing.
   </main>
 </template>
